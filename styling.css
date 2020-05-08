@@ -2,13 +2,13 @@
 html {
   height: 100%;
   background: radial-gradient(black, #ccc);
-  /* background: -webkit-radial-gradient(circle, #fff, #ccc);
-  background: -o-radial-gradient(circle, #fff, #ccc);
-  background: -moz-radial-gradient(circle, #fff, #ccc); */
+  background: -webkit-radial-gradient(black, #ccc);
+  background: -o-radial-gradient(black, #ccc);
+  background: -moz-radial-gradient(black, #ccc);
 }
 
 #container {
-  height: 550px;
+  height: 580px;
   width: 750px;
   /* background-color: #9dd2ea; */
   background-color: #29303b;
