@@ -1,10 +1,10 @@
 /*styling.css*/
 html {
   height: 100%;
-  background: radial-gradient(black, #ccc);
-  background: -webkit-radial-gradient(black, #ccc);
-  background: -o-radial-gradient(black, #ccc);
-  background: -moz-radial-gradient(black, #ccc);
+  background: radial-gradient(circle, black, #ccc);
+  background: -webkit-radial-gradient(circle, black, #ccc);
+  background: -o-radial-gradient(circle, black, #ccc);
+  background: -moz-radial-gradient(circle, black, #ccc);
 }
 
 #container {
